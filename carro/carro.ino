@@ -3,6 +3,7 @@
 
 // Este codigo foi desenvolvido por @guilherme_5547 para fins de estudos.
 // Para mais informações a documentação do codigo está disponivel no github: https://github.com/LuizGuilhermeSilvaa/carro-SergipeTec
+// Saiba mais sobre o SergipeTec: https://sergipetec.org.br/
 
 // ================================================================
 
