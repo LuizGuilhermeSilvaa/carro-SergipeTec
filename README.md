@@ -2,10 +2,10 @@
 
 Este é um repositorio sobre o codigo e funcionalidades do carro autônomo do SergipeTec--CVT
 
-O código pode ser reutilizado para outros projetos que atendam aos seguintes requisitos mínimos:
+### O código pode ser reutilizado para outros projetos que atendam aos seguintes requisitos mínimos:
 - Pelo menos 1 sensor ultrassônico.
 - Pelo menos 2 motores (com ponte H).
-OBS: Se desejar usar o código sem modificações na lógica de programação, os requisitos são:
+### OBS: Se desejar usar o código sem modificações na lógica de programação, os requisitos são:
 - 1 sensor ultrassônico.
 - 2 motores (com ponte H).
 - 1 servo motor.
